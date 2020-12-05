@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot1.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/Simple_Chatty_Bot1.Problems-Good_rest_on_vacation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/Simple_Chatty_Bot1.Problems-Good_rest_on_vacation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/Simple_Chatty_Bot1.Problems-Good_rest_on_vacation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/Simple_Chatty_Bot1.Problems-Good_rest_on_vacation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/Simple_Chatty_Bot1.Problems-Good_rest_on_vacation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/Simple_Chatty_Bot1.Problems-Good_rest_on_vacation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Simple_Chatty_Bot1.Problems-Healthy_sleep.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Simple_Chatty_Bot1.Problems-Healthy_sleep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Simple_Chatty_Bot1.Problems-Healthy_sleep.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Simple_Chatty_Bot1.Problems-Healthy_sleep.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Simple_Chatty_Bot1.Problems-Healthy_sleep.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Simple_Chatty_Bot1.Problems-Healthy_sleep.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello_/Simple_Chatty_Bot1.Problems-Hello_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello_/Simple_Chatty_Bot1.Problems-Hello_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello_/Simple_Chatty_Bot1.Problems-Hello_.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello_/Simple_Chatty_Bot1.Problems-Hello_.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello_/Simple_Chatty_Bot1.Problems-Hello_.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello_/Simple_Chatty_Bot1.Problems-Hello_.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot1.Simple_Chatty_Bot-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot1.Simple_Chatty_Bot-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot1.Simple_Chatty_Bot-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot1.Simple_Chatty_Bot-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot1.Simple_Chatty_Bot-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot1.Simple_Chatty_Bot-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot1.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot1.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot1.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot1.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot1.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot1.util.test.iml" />
+    </modules>
+  </component>
+</project>
